@@ -1,0 +1,19 @@
+{
+  "name": "imgjs",
+  "version": "0.0.1",
+  "description": "An image viewer, primarily geared towards manga, written in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mint-lgbt/imgjs.git"
+  },
+  "author": "lunaisnotaboy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mint-lgbt/imgjs/issues"
+  },
+  "homepage": "https://github.com/mint-lgbt/imgjs#readme"
+}
