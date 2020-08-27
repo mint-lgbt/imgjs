@@ -1,6 +1,6 @@
 {
   "name": "@mint-lgbt/imgjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An image viewer, primarily geared towards manga, written in Javascript.",
   "main": "index.js",
   "scripts": {
